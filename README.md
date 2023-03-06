@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ireost
-- 👀 I’m interested in everything
+- 👀 I’m interested in all kind of data
 - 🌱 I’m currently learning python, data analisis and fencing
 - 💞️ I’m looking to collaborate on as almost as  can
 - 📫 How to reach me irene@fundacionauge.org.ar
